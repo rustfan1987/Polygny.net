@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<svelte:head><title>Polygny</title></svelte:head>
+
+<main class="grid min-h-screen place-items-center p-6">
+	<h1 class="text-4xl font-bold">Polygny</h1>
+</main>
